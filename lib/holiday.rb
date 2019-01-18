@@ -66,7 +66,7 @@ end
 end
 
 def all_holidays_with_bbq(holiday_hash)
-holid
+holiday_hash
 
 end
 
